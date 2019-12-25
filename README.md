@@ -38,9 +38,9 @@
  识别情绪分为两级。一级情绪分为正向、中性、负向3种，正向情绪细分为：喜爱、愉快、感谢3种；负向情绪细分为：抱怨、愤怒、厌恶、恐惧、悲伤5种 。      
  缺点是：文本中需要给出明显的形容词，才能帮助情绪识别的细化。而语言中的隐藏情绪不能被有效识别。      
  例如：       
- - ![avatar](https://github.com/Huhu-Estelle/API-/blob/master/%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB1.jpg)
+ - ![image](https://github.com/Huhu-Estelle/API-/blob/master/%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB1.jpg)
  出现了“累”这个关键词，识别得出情绪是疲惫
- - ![avatar](https://github.com/Huhu-Estelle/API-/blob/master/%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB2.jpg)
+ - ![image](https://github.com/Huhu-Estelle/API-/blob/master/%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB2.jpg)
  并没有识别出语境下的隐喻的可能性
              
 ## PRD5.需求列表与人工智能API加值 3%
@@ -55,14 +55,14 @@
 原型 
 原型1.交互及界面设计 5%
 ## 首页
-![avatar](https://github.com/Huhu-Estelle/API-/blob/master/%E9%A6%96%E9%A1%B5.png)
+![image](https://github.com/Huhu-Estelle/API-/blob/master/%E9%A6%96%E9%A1%B5.png)
 ## 添加声纹-- 讯飞声纹识别API
-![avatar](https://github.com/Huhu-Estelle/API-/blob/master/%E6%B7%BB%E5%8A%A0%E5%A3%B0%E7%BA%B9.png)
+![image](https://github.com/Huhu-Estelle/API-/blob/master/%E6%B7%BB%E5%8A%A0%E5%A3%B0%E7%BA%B9.png)
 ## 声纹识别和情绪识别
-![avatar](https://github.com/Huhu-Estelle/API-/blob/master/%E5%A3%B0%E7%BA%B9%E8%AF%86%E5%88%AB%E5%92%8C%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB.png)
+![image](https://github.com/Huhu-Estelle/API-/blob/master/%E5%A3%B0%E7%BA%B9%E8%AF%86%E5%88%AB%E5%92%8C%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB.png)
 原型2.信息设计 5%
 ## API使用流程图--帮助用户场景和途径理解
-![avatar](https://github.com/Huhu-Estelle/API-/blob/master/API%E5%9C%BA%E6%99%AF%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![image](https://github.com/Huhu-Estelle/API-/blob/master/API%E5%9C%BA%E6%99%AF%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 原型3.原型文档 5%
 原型文档：还未上传，同学请见见隔壁浏览器
 
