@@ -131,8 +131,6 @@ if __name__ == '__main__':
 		"has_calorie": true,
 		"name": "对话情绪识别",
 		"probability": "0.396031"
-		"baike_info": {
-			"baike_url": "http://baike.baidu.com/item/%E9%85%B8%E6%B1%A4%E9%B1%BC/1754055",
 		
 		}
 	},
